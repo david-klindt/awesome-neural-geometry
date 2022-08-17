@@ -246,9 +246,11 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 
 #### Spatial Navigation
 
+* [**Decoding of neural data using cohomological feature extraction** (2019)  <br /> *Erik Rybakken, Nils Baas and Benjamin Dunn* <br /> <img src="https://img.shields.io/badge/-topology-FFD3B5" />
+](https://direct.mit.edu/neco/article/31/1/68/8441?casa_token=H7n55cnHjnEAAAAA:eKcnJuJqIAGwQVbgsDEwzTdBx5BpepkDtIbHMG6CjQ6UKgNILnS0vIbYUMZVLHGxat6b1J2Vrw) 
+
 * [**The intrinsic attractor manifold and population dynamics of a canonical cognitive circuit across waking and sleep** (2019)  <br /> *Rishidev Chaudhuri, Berk Gerçek, Biraj Pandey, Adrien Peyrache & Ila Fiete* <br /> <img src="https://img.shields.io/badge/-topology-FFD3B5" />
 ](https://www.nature.com/articles/s41593-019-0460-x) 
-
 
 * [**Toroidal topology of population activity in grid cells** (2022)  <br /> *Richard J. Gardner, Erik Hermansen, Marius Pachitariu, Yoram Burak, Nils A. Baas, Benjamin A. Dunn, May-Britt Moser & Edvard I. Moser* <br /> <img src="https://img.shields.io/badge/-topology-FFD3B5" />](https://www.nature.com/articles/s41586-021-04268-7) 
 
